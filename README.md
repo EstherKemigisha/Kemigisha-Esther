@@ -4,12 +4,12 @@ I'm a Full-stack Developer dedicated to creating web applications that solve rea
 
 💻 Tech Stack 
 - Languages: JavaScript ,HTML5
-- Frontend: Vue.js, React, TailwindCSS, Vuetify
+- Frontend: Vue.js, React, TailwindCSS, Vuetify.
 - Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
 - Tools: Git, Github, Figma, VS Code, Vercel, Vite
 
 🌍 Let's connect
-LinkedIn: https://www.linkedin.com/in/esther-kemigisha/ 
+LinkedIn: https://www.linkedin.com/in/esther-kemigisha/   
 Email: estarkemi@gmail.com 
 Portifolio: https://graphics-ktqz.onrender.com/ 
 
